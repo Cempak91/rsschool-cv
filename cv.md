@@ -2,8 +2,8 @@
 
 ## Contact information:
   +  *Discord:* <https://discordapp.com/users/404203729173086229>;
-  +  *Telegram:* https://t.me/Cempak91
-  +  *E-mail:* setrac91@gmail.com.
+  +  *Telegram:* <https://t.me/Cempak91>
+  +  *E-mail:* <setrac91@gmail.com>
 
 ## About Myself:
 I work as a project manager for a pharmaceutical company. 
@@ -27,7 +27,7 @@ function getSumBetweenNumbers(n1, n2) {
 ```
 
 ## Work Experience:
-    *Stage0:* https://cempak91.github.io/Library/Library/
+  + *Stage0:* <https://cempak91.github.io/Library/Library/>
 
 ## Experience:
   +  *University:* Volga Region State University of Telecommunications and Informatics,Information Systems and Technology Specialist;
