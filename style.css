@@ -12,6 +12,8 @@
     font-weight: 500;
     line-height: 1.5;
     align-items: stretch;
+    max-width: 1440px;
+    margin: 0 auto;
     }   
 
   * {
@@ -68,6 +70,8 @@
     }
 
   .footer {
+    margin: 0 auto;
+    min-width: 1440px;
     background-color:cadetblue;
     }
 
@@ -84,10 +88,7 @@
   .footer-container{
     display: flex;
     justify-content: space-between;
-    background-color:cadetblue;
-    min-width: 1440px;
     align-items: center;
-    justify-content: flex-start;
     }
   .contact-in-footer{
     padding: 0 30px;
